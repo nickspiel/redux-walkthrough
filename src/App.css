@@ -1,0 +1,13 @@
+@keyframes fadeIn {
+  from {
+    opcity: 0;
+  }
+};
+
+.App {
+  text-align: center;
+}
+
+svg {
+  max-width: 960px;
+}
